@@ -1,0 +1,8 @@
+|parte4
+Clk => ~NO_FANOUT~
+R => ~NO_FANOUT~
+S => ~NO_FANOUT~
+SW[0] => ~NO_FANOUT~
+SW[1] => ~NO_FANOUT~
+
+

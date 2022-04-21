@@ -1,0 +1,13 @@
+|parte2
+Clk => ~NO_FANOUT~
+R => ~NO_FANOUT~
+S => ~NO_FANOUT~
+Q <= LEDR[0].DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => S_g.IN0
+SW[0] => R_g.IN0
+SW[1] => R_g.IN1
+SW[1] => S_g.IN1
+LEDR[-1] <= <GND>
+LEDR[0] <= LEDR[0].DB_MAX_OUTPUT_PORT_TYPE
+
+

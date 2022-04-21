@@ -1,0 +1,34 @@
+|Parte3
+SW[0] => Add0.IN2
+SW[0] => M.IN1
+SW[1] => Add1.IN2
+SW[1] => M.IN1
+SW[2] => Add2.IN2
+SW[2] => M.IN1
+SW[3] => Add3.IN2
+SW[3] => M.IN1
+SW[4] => Add0.IN1
+SW[5] => Add1.IN1
+SW[6] => Add2.IN1
+SW[7] => Add3.IN1
+SW[8] => M.IN1
+LEDR[0] <= M.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[1] <= <GND>
+LEDR[2] <= <GND>
+LEDR[3] <= <GND>
+LEDR[4] <= <GND>
+LEDR[5] <= <GND>
+LEDR[6] <= <GND>
+LEDR[7] <= <GND>
+LEDR[8] <= <GND>
+LEDR[9] <= <GND>
+LEDR[10] <= <GND>
+LEDR[11] <= <GND>
+LEDR[12] <= <GND>
+LEDR[13] <= <GND>
+LEDR[14] <= <GND>
+LEDR[15] <= <GND>
+LEDR[16] <= <GND>
+LEDR[17] <= <GND>
+
+
